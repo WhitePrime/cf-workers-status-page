@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: mail-it2g # unique identifier
-    name: mail.it2g.ru
+    name: Mail IT2G
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://mail.it2g.ru/' # URL to fetch
     method: GET # default=GET
@@ -24,7 +24,7 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
 
   - id: confluence-it2g
-    name: confluence.it2g.ru
+    name: Confluence IT2G
     description: 'Built for anything connected to the Internet.'
     url: 'https://confluence.it2g.ru'
     method: GET
